@@ -1,0 +1,23 @@
+.header{
+width: 1400px;
+height: 700px;
+margin: auto;
+padding: auto;
+background-color: brown;
+}
+.logo{
+    float: right;
+}
+.logo img{
+width: 140px;
+height: 140px;
+}
+.menu{
+    float: left;
+}
+li{
+    color: gold;
+}
+a{
+    color: green;
+}
